@@ -3812,3 +3812,13 @@
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+	img.resize {
+		height:auto;
+		width:100%;
+	}
+
+	img.logo {
+		height:auto;
+		max-width:67%;
+	}
